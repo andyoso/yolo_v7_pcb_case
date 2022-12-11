@@ -1,0 +1,14 @@
+Αэ 把σ:
+
+YOLO txt把计Α https://ithelp.ithome.com.tw/articles/10263004
+糶郎 https://shengyu7697.github.io/python-write-text-file/
+
+yolo v7 把σ:https://zhuanlan.zhihu.com/p/547878330
+
+
+癡絤:
+python train.py --weights weights/yolov7_traini
+ng.pt --cfg cfg/training/yolov7-pcb.yaml --data data/pcb.yaml --device 0 --batch-size 4 --epoch 50 
+
+崩阶:
+python detect.py --weights runs/train/exp14/weights/best.pt --source datasets/Evaluation_Dataset 

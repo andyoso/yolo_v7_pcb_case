@@ -1,0 +1,12 @@
+datasets/images/val/0/109.jpg
+datasets/images/val/0/110.jpg
+datasets/images/val/1/109.jpg
+datasets/images/val/1/110.jpg
+datasets/images/val/2/110.jpg
+datasets/images/val/2/111.jpg
+datasets/images/val/3/110.jpg
+datasets/images/val/3/111.jpg
+datasets/images/val/4/109.jpg
+datasets/images/val/4/110.jpg
+datasets/images/val/5/110.jpg
+datasets/images/val/5/111.jpg
